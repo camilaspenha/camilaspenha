@@ -1,4 +1,4 @@
-<img width='100px' height='100px' src='https://avatars.githubusercontent.com/u/45637296?v=4'/>
+<!-- <img width='100px' height='100px' src='https://avatars.githubusercontent.com/u/45637296?v=4'/> -->
 
 # Hi, I'm Camila Penha.
 
