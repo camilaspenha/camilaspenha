@@ -2,17 +2,6 @@
 
 # Hi, I'm Camila Penha.
 
-```typescript
-type Dev = { name: string; role: string; };
-class Developer implements Dev {
-    name: string; role: string;
-    constructor(name: string, role: string) { this.name = name; this.role = role; }
-    getDeveloper() { return `${this.name} is a ${this.role}`; }
-}
-const dev = new Developer('Camila Penha', 'Front-End Web Developer');
-console.log(dev.getDeveloper());
-```
-
 ### About me:
 
 <p>
