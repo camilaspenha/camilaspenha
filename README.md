@@ -1,22 +1,32 @@
 <!-- <img width='100px' height='100px' src='https://avatars.githubusercontent.com/u/45637296?v=4'/> -->
 
-# Hi, I'm Camila Penha.
+# Olá, eu sou a Camila.
 
-### About me:
+### Sobre mim:
 
 <p>
-  I am a professional with 5 years of experience in Front-End Web Development, specialized in transforming designs into functional websites and applications with a focus on performance optimization, user-centered design, and responsiveness. Proven skills in WordPress, PHP, MySQL, HTML, CSS, Javascript, and modern frameworks such as Bootstrap, Typescript, and Angular.
+  Trabalho há 5 anos como Desenvolvedora e Web Designer com experiência em criação de interfaces digitais funcionais, centradas no usuário e em construção de páginas web com uso das principais tecnologias do Desenvolvimento Front-End como HTML5, CSS3, Bootstrap, Javascript, Typescript, React, PHP, Wordpress, versionamento de código com Git, GitHub e desenvolvimento mobile-first.
 </p>
 
 <p>
-  Solid experience in version control routines with Git and GitHub, agile methodologies (Scrum/Kanban), working in cross-functional teams and independently, with a detail-oriented approach and commitment to code quality.
+  Como Web Designer, atuo principalmente com UI/UX, aplico as Heurísticas de Nielsen na avaliação de usabilidade, além de boas práticas em Design de Interface, Guias de Estilo e Design System. Atuo também com metodologias de Design Thinking, unindo pesquisa, prototipagem e testes para desenvolver soluções intuitivas e consistentes, com uso das ferramentas Figma, Illustrator e Photoshop.
 </p>
 
 <p>
-  Knowledge of design tools such as Figma, Adobe XD, Photoshop, and Illustrator, ensuring smooth communication between design and development teams, on-page SEO optimization, and web accessibility.
+  Possuo forte habilidade em trabalhar de forma colaborativa em equipes ágeis, boa comunicação, resolução de problemas, organização e sempre busco aprender novas tecnologias.
 </p>
 
-### Languages:
+### Conheça meu portfólio
+
+<p>Sites Desenvolvidos:
+<a href="https://camilaspenha.github.io/meu-portfolio">https://camilaspenha.github.io/meu-portfolio</a>
+</p>
+
+<p>Designs no Figma:
+<a href="https://www.figma.com/design/I4dK1vHpGBo6Mv4x8WZiBu/Portfolio?node-id=2108-7959">figma.com/camilapenha</a>
+</p>
+
+### Linguagens:
 
 ![JavaScript](https://img.shields.io/badge/javascript-%2320232a.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 ![PHP](https://img.shields.io/badge/php-%2320232a.svg?style=for-the-badge&logo=php&logoColor=%23007ACC)&nbsp;
@@ -28,14 +38,14 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%2320232a.svg?style=for-the-badge&logo=typescript&logoColor=%23007ACC)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%2320232a.svg?style=for-the-badge&logo=bootstrap&logoColor=purple)&nbsp;
 
-### Tools:
+### Ferramentas:
 
 ![Git](https://img.shields.io/badge/git-%2320232a.svg?style=for-the-badge&logo=git&logoColor=%23F05033)&nbsp;
 ![Figma](https://img.shields.io/badge/figma-%2320232a.svg?style=for-the-badge&logo=figma&logoColor=pink)&nbsp;
 
-### Camila Penha on social media:
+### Social media:
 
-<a href="https://www.linkedin.com/in/camila-penha-ab0a3555/"><img src="https://img.shields.io/badge/-Camila_Penha-BB3186?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/camilaspenha"><img src="https://img.shields.io/badge/-Camila_Penha-BB3186?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:camilaspenha@gmail.com.com"><img src="https://img.shields.io/badge/-camilaspenha@gmail.com-BB3186?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
 
 <!--
