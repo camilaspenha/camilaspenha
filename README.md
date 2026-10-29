@@ -23,7 +23,7 @@
 
 ### Frameworks:
 
-![Angular](https://img.shields.io/badge/angular-%2320232a.svg?style=for-the-badge&logo=angular&logoColor=red)&nbsp;
+![React](https://img.shields.io/badge/react-%2320232a?style=for-the-badge&logo=react&logoColor=%23007ACC)&nbsp;
 ![Wordpress](https://img.shields.io/badge/wordpress-%2320232a?style=for-the-badge&logo=wordpress&logoColor=%23007ACC)&nbsp;
 ![TypeScript](https://img.shields.io/badge/typescript-%2320232a.svg?style=for-the-badge&logo=typescript&logoColor=%23007ACC)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%2320232a.svg?style=for-the-badge&logo=bootstrap&logoColor=purple)&nbsp;
