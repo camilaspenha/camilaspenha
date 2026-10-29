@@ -35,7 +35,7 @@
 
 ### Social media:
 
-<a href="https://www.linkedin.com/in/camilaspenha"><img src="https://img.shields.io/badge/-Camila_Penha-BB3186?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/camilaspenha"><img src="https://img.shields.io/badge/-LinkedIn-BB3186?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:camilaspenha@gmail.com.com"><img src="https://img.shields.io/badge/-camilaspenha@gmail.com-BB3186?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/></a>
 
 <!--
